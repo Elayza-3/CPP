@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Elizabeth\OneDrive\Desktop\C++ project\Практическая5\Project5\Source.cpp(64,22): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\Elizabeth\OneDrive\Desktop\C++ project\Практическая5\Project5\Source.cpp(64,22): warning C4309: аргумент: усечение константного значения
+C:\Users\Elizabeth\OneDrive\Desktop\C++ project\Практическая5\Project5\Source.cpp(65,22): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\Elizabeth\OneDrive\Desktop\C++ project\Практическая5\Project5\Source.cpp(65,22): warning C4309: аргумент: усечение константного значения
+  Project5.vcxproj -> C:\Users\Elizabeth\OneDrive\Desktop\C++ project\Практическая5\Project5\x64\Debug\Project5.exe
