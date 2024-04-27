@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(122,28): warning C4101: error: неиспользованная локальная переменная
+C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(135,28): warning C4101: error: неиспользованная локальная переменная
+C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(224,2): warning C4091: static : пропускается слева от "Store", когда ни одна переменная не объявлена
+C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(179,28): warning C4101: error: неиспользованная локальная переменная
+C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(190,28): warning C4101: error: неиспользованная локальная переменная
+C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(245,24): warning C4101: error: неиспользованная локальная переменная
+  C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(245,24):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\Source.cpp(307,28):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "int getCode<Store>(T &,bool)"
+          with
+          [
+              T=Store
+          ]
+  
+  DimaLisa.vcxproj -> C:\Users\Elizabeth\OneDrive\Desktop\VStudio\C++практ\DimaLisa\DimaLisa\x64\Debug\DimaLisa.exe
